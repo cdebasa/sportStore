@@ -1,0 +1,11 @@
+GET https://swapi.dev/api/people/1/
+
+https://localhost:5001/weatherforecast
+
+###
+
+https://localhost:5001/api/products
+
+###
+
+https://localhost:5001/api/products/2
